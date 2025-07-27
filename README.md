@@ -398,7 +398,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Made with ❤️ by the ApiScanner Team**
+**Made with ❤️ by the SUSH**
 
 [![GitHub stars](https://img.shields.io/github/stars/your-username/ApiScanner?style=social)](https://github.com/your-username/ApiScanner)
 [![GitHub forks](https://img.shields.io/github/forks/your-username/ApiScanner?style=social)](https://github.com/your-username/ApiScanner)
